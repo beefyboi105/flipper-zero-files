@@ -19,7 +19,7 @@ REM NOTICE Make sure to change "Phone Number" with the number you wish to call.
 REM -----------------------------------------------
 
 
-DEFINE #NUMBER "Phone Number"
+DEFINE #NUMBER "911"
 DEFINE #URL tel://#NUMBER
 
 FUNCTION MAIN()
